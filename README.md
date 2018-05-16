@@ -1,5 +1,5 @@
 # i-saw-it
-plugin for marking already seen resources
+Initial idea is about browser plugin for marking already seen resources/information over the web. 
 
 ## Use case
 You have many friends on Facebook, Twitter, Instagram, and they share lot of information. You follow many news services, which re-publish materials, you've might have seen before. Sometimes, people tend to re-post, re-share old memories, or old resources. So how about to skip that for you, and mark it as already seen? What if you saw the information and want to save your time?
@@ -12,3 +12,14 @@ If it's mobile app, then better to wrap it using #ReactNative and the heart of a
 
 ## Maybe
 Python? Bot API? Tensorflow?
+
+
+# name
+
+- info-blocker (like ads-blocker)
+- time-saver (because it saves time avoiding seeing/scrolling/clicking/realizing already read/seen source)
+- skip-it or skipIt or skIpIt or skipIT (skip information)
+- i18n => internationalization, information => i9n => skip-i9n => skipi9n
+- "I saw this" => i-saw-this-information => i-s-t-i => ISTI ? => ISI
+
+
