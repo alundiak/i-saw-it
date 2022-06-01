@@ -14,7 +14,7 @@ If it's mobile app, then better to wrap it using #ReactNative and the heart of a
 Python? Bot API? Tensorflow?
 
 
-# name
+## name
 
 - info-blocker (like ads-blocker)
 - time-saver (because it saves time avoiding seeing/scrolling/clicking/realizing already read/seen source)
